@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Common JavaScript coding Style - ESLint Shareable Config",
   "main": "./eslintrc.json",
   "scripts": {
@@ -41,7 +41,7 @@
   },
   "bugs": "https://github.com/Nicolab/eslint-config-common/issues",
   "dependencies": {
-
+    "eslint-config-standard": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^2.1.0",
