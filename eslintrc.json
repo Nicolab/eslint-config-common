@@ -27,7 +27,7 @@
     "keyword-spacing": [2, {"before": true,  "after": true, "overrides": {
       "function": {"before": true, "after": false},
       "super": {"before": true, "after": false},
-      "switch": {"before": true, "after": false},
+      "switch": {"before": true, "after": true},
       "if": {"before": true, "after": true},
       "for": {"before": true, "after": true},
       "while": {"before": true, "after": true},
