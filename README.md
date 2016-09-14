@@ -47,6 +47,12 @@ The rules of the common coding style are based and/or inspired by:
  * [Feross's JavaScript Standard Style](http://standardjs.com)
 
 
+## Related packages
+
+ * [eslint-config-common-jsx](https://github.com/Nicolab/eslint-config-common-jsx)
+ * [eslint-config-common-react](https://github.com/Nicolab/eslint-config-common-react)
+
+
 ## LICENSE
 
 [MIT](https://github.com/Nicolab/eslint-config-common/blob/master/LICENSE) (c) 2016, Nicolas Tallefourtane.
