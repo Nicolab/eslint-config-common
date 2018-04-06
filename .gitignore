@@ -8,3 +8,5 @@ public/
 Thumbs.db
 .idea/
 .tmp/
+
+package-lock.json
